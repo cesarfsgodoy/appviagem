@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "163641562400",
+    "project_id": "teste-1e6d5",
+    "storage_bucket": "teste-1e6d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:163641562400:android:8c89f184c61d48f8f17345",
+        "android_client_info": {
+          "package_name": "com.example.appviagem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "163641562400-rtgu48v3qsedlnp51m41c3orrtch83ld.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyArTdDo1N2v9ZIIAeaf-q3HslQoQVZPiV8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "163641562400-rtgu48v3qsedlnp51m41c3orrtch83ld.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "163641562400-7naib1c5p9shdqnpecmmrnb5pt8b73eq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.appviagem"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
